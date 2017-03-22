@@ -1,4 +1,2 @@
-<script>
-  alert("Alarma Alarma Alarma!");
-</script>
+alert("Alarma Alarma Alarma!");
 
